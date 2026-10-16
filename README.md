@@ -1,3 +1,4 @@
 # Cs50-project
-This repo for cs50 fyp.
+This is for Cs50 Final year project.
+<br>
 Author - Muhammad Usman
